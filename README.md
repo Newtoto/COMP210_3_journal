@@ -10,6 +10,7 @@ Goes over some controllers, and VR interfaces. Tested 2 game prototypes and cont
 
 ## Exploitation of heuristics for virtual environments
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2399065)
+Explores various ways of conducting heuristic analysis on virtual reality, and how existing methods have been combined for the new medium. Issues can be divided into 2 main categories, display related, and interactivity. A patchwork of heuristics like some of the papers have used has been suggested to uncover problems. This patchwork would be based on the context and the emphasis. Using these bespoke hueristics, issues can then be categorised into them. Some of Nielsen's heuristics were used, but 5 categories didn't have problems associated with them in this context. Heuristics are adapted to needs. Set up for a formal framework which allows heuristics to be tailored to needs but also formalised.
 
 ## Investigating the balance between virtuality and reality in mobile mixed reality UI design: user perception of an augmented city
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2641201)
