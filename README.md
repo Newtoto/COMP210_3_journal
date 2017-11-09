@@ -3,6 +3,10 @@ Base Repo for COMP210_3
 
 ## Hardware Interfaces for VR Applications: Evaluation on Prototypes
 (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=7363283)
+Goes over some controllers, and VR interfaces. Tested 2 game prototypes and controllers. Mentions motion sickness, but jumps to the conclusion of it being down to one game being action, but neglets to mention how the player moves about in either of the games, I cannot find gameplay on this.
+
+- Find action games which teleport causing less motion sickness.
+- Find puzzle games which move causing more motion sickness.
 
 ## Exploitation of heuristics for virtual environments
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2399065)
