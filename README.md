@@ -40,3 +40,9 @@ Definition of AR is not concrete, there is discrepancy between whether or not vi
 
 ## Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology
 (https://www.frontiersin.org/articles/10.3389/frobt.2016.00003/full)
+
+Fig. 2 shows the rubber hand illusion in AR.
+
+Plasticity is mentioned, the environment causes an unconscious influence on behaviour. Stable environments keep character traits stable. Stanford Prison Experiment had participants playing prison guards and others inmates which then affected their personality. Milgram is more to do with obeying authority as opposed to influence, although it does show the situation of being in the presense of authority changing how someone would act, trust? People paid more money when there were eyes, showing that the sense of presence doesn't need to be realistic.
+
+Due to virtual reality posing a possible new realistic scenario, it might manipulate minds in unforseen ways.
