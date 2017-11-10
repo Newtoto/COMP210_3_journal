@@ -19,6 +19,17 @@ Ran a field study of 35 people, and a survey of over 100 testing where the best 
 
 ## Homuncular Flexibility in Virtual Reality.
 (http://web.b.ebscohost.com.ezproxy.falmouth.ac.uk/ehost/detail/detail?vid=0&sid=53c4d7a0-70c2-4309-b184-4b79be2d16db%40sessionmgr104&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=102884181&db=ufh)
+The way someone percieves their own body can be changed based on sensory input. In the case of VR this means that if they see they have a different skill set, different limbs etc... they will then act accordingly after time. Body transfer can be experienced when you thing you embody something that you don't.
+
+Rubber hand illusion is referenced (stroking rubber hand at the same time as yours makes you embody that hand) - neuroplasticity
+
+took less than 10 minutes to change the way they moved
+
+sense of being may be mistaken for being able to control the avatar fluently - link to languages?
+
+embodiment may be present in non immersive media
+
+increase immersion with more feedback
 
 ## (Re-)examination of multimodal augmented reality
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001961)
