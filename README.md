@@ -14,6 +14,8 @@ Explores various ways of conducting heuristic analysis on virtual reality, and h
 
 ## Investigating the balance between virtuality and reality in mobile mixed reality UI design: user perception of an augmented city
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2641201)
+Ran a field study of 35 people, and a survey of over 100 testing where the best balance between reality and UI is. 3D rendering appeared to offer more clarity and usability, but the camera live view gave more utility, understandabilty and significanly more pleasantness.
+3D model didn't have things like loads of traffic blocking visibility, you can tailor the experience more, considered better for weaker eye sight. Real camera better for finding places, and getting additional info. Users tended to hold their phone lower due to social awkwardness. 3D model could be used in this position, but the camera not so much. Enjoyed just panning with gestures and not moving whole body. Both views have uses, so allow for switching, one wasn't considerably better than the other at everything.
 
 ## Homuncular Flexibility in Virtual Reality.
 (http://web.b.ebscohost.com.ezproxy.falmouth.ac.uk/ehost/detail/detail?vid=0&sid=53c4d7a0-70c2-4309-b184-4b79be2d16db%40sessionmgr104&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=102884181&db=ufh)
