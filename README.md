@@ -33,6 +33,10 @@ increase immersion with more feedback
 
 ## (Re-)examination of multimodal augmented reality
 (https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001961)
+Definition of AR is not concrete, there is discrepancy between whether or not viewing the world through the camera should be considered real or virtual. A differentiation should be made between viewing something through a lens (mediated) and directly looking at your hand without distortion. Mediated doesn't always mean through a camera however, it can also mean something being changed digitally like a roboticized voice or sensory substitution. An example of sensory substitution is vibration on the skin related to light intensity alowing someone to "see" with their skin. Virtual version of this exist like Luigi's Ghost Mansion which vibrates where the player senses ghosts in game with vibration.
+
+3 Definitions are given. Real being the physical world without being mediated. Mediates is origination from the physical world, but is percieved through digital forms. Virtual is originating from computed genrated models and perceived through a digital display.
+
 
 ## Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology
 (https://www.frontiersin.org/articles/10.3389/frobt.2016.00003/full)
